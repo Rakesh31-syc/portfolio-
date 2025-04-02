@@ -26,8 +26,8 @@ Prerequisites
 🟢 Installation
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd portfolio-website
+git clone https://github.com/Rakesh31-syc/portfolio-.git
+cd portfolio-
 ```
 
 2. Install dependencies:

@@ -2,6 +2,8 @@ Portfolio Website - A. Rakesh
 
 A modern, responsive portfolio website built with Next.js, Framer Motion, and Shadcn/UI.
 
+🌐 Live Demo: [rakesh31.netlify.app](https://rakesh31.netlify.app/)
+
 ✨ Features
 - 🌓 Dark/Light mode toggle
 - 🎨 Modern UI with a clean design
@@ -26,8 +28,8 @@ Prerequisites
 🟢 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/Rakesh31-syc/portfolio-.git
-cd portfolio-
+git clone <repository-url>
+cd portfolio-website
 ```
 
 2. Install dependencies:
@@ -46,4 +48,14 @@ yarn dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
+📜 Project Structure
+- `components/` - Reusable UI components
+- `pages/` - Application routes
+- `styles/` - Global styles
+- `public/` - Static assets
 
+💻 Deployment
+To build for production:
+```bash
+npm run build
+npm start

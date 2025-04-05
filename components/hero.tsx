@@ -56,7 +56,7 @@ export default function Hero() {
             transition={{ delay: 0.5, duration: 0.8 }}
           >
             <Button asChild size="lg" className="group relative overflow-hidden">
-              <Link href="/resume.pdf" target="_blank">
+              <Link href="https://drive.google.com/file/d/1MYNMjdmAX4uYP28D6qKQRLxexO9QQPZf/view?usp=sharing" target="_blank">
                 <span className="relative z-10 flex items-center">
                   My Resume
                   <Download className="ml-2 h-4 w-4 transition-transform group-hover:translate-y-1" />
